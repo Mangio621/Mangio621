@@ -16,7 +16,7 @@
 💬 Ask me about ANYTHING... but a bias for music related subjects.<br>
 📫 How to reach me: my <a href="https://www.linkedin.com/in/cole-mangio-67816b1b0">linkedIn</a><br>
 😄 Pronouns: He/Him<br>
-⚡ Fun fact: I have a passion for creating music.
+⚡ Fun fact: I have a passion for creating music. I also really like coffee ☕
 
 <!--
 **Mangio621/Mangio621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
