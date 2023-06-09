@@ -5,7 +5,7 @@
 <ul>
   <li> Python </li>
   <li> C# </li>
-  <li> HTML/CSS/Javascript->TypeScript (In next.js stack)</li>
+  <li> HTML|JSX/CSS/Javascript->TypeScript (In next.js stack)</li>
   <li> Kotlin & Java </li>
 </ul>
 <hr>
